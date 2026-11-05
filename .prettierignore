@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-electron
+release
+artifacts
+public/wasm
+public/models
+public/vision-worker.js
+package-lock.json
+native/build
+native/bin
+native/tools
+native/reference

@@ -1,0 +1,4 @@
+LIBRARY MemeCamMediaSource
+EXPORTS
+  DllGetClassObject PRIVATE
+  DllCanUnloadNow PRIVATE

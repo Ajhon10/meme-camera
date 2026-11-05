@@ -1,0 +1,21 @@
+node_modules/
+dist/
+dist-electron/
+release/
+artifacts/
+public/wasm/
+public/models/*.task
+public/vision-worker.js
+*.log
+native/build/
+native/bin/
+native/tools/
+.env
+.env.*
+!.env.example
+*.sqlite*
+*.db
+*.db-shm
+*.db-wal
+# Supplied photos, meme images and derived icons are preserved privately.
+public/memes/
